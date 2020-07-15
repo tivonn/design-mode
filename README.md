@@ -1,7 +1,8 @@
 # design-mode
 
 ## description
-the design mode of JavaScript
+
+JavaScript设计模式 / the design mode of JavaScript
 
 ## link
 
